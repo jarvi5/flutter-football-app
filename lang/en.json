@@ -1,0 +1,9 @@
+{
+  "app_title" : "Football App",
+  "error_loading" : "Error loading",
+  "select_area_message" : "Select an area from above list",
+  "areas_label" : "Areas",
+  "competitions_label" : "Competitions",
+  "competition_label" : "Competition",
+  "standings_label" : "Standings"
+}

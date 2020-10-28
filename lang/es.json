@@ -1,0 +1,9 @@
+{
+  "app_title" : "Fútbol App",
+  "error_loading" : "Error al cargar",
+  "select_area_message" : "Selecciona un área de la lista de arriba",
+  "areas_label" : "Areas",
+  "competitions_label" : "Competiciones",
+  "competition_label" : "Competición",
+  "standings_label" : "Tabla de posiciones"
+}
